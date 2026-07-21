@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "An interactive AI-powered voice assistant capable of intelligent conversation, task assistance, and voice persona customization, featuring audio visualizations and responsive speech synthesis.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
