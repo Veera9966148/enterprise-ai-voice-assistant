@@ -310,13 +310,13 @@ npm run dev
 AI Engineer Aspirant
 
 LinkedIn:
-(Add LinkedIn)
+(https://www.linkedin.com/in/veeresh-kumar90524)
 
 GitHub:
 https://github.com/Veera9966148
 
 Portfolio:
-(Add Portfolio)
+(https://revolutionizing-liver-care-predicting-vlq5.onrender.com)
 
 ---
 
